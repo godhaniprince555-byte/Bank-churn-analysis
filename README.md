@@ -5,6 +5,8 @@
 ##  Objective
 To analyze customer behavior and identify the primary factors driving bank customer churn.
 
+<img width="1386" height="764" alt="image" src="https://github.com/user-attachments/assets/92fc65fb-47ff-4d82-a04a-c8f417c881bb" />
+
 ##  Approach
 * **Source Data Review:** Conducted an initial assessment of the raw dataset to understand its structure.
 * **Data Preparation:** Cleaned and transformed the data utilizing Power Query Editor.
